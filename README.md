@@ -1,8 +1,9 @@
 
 # GASI: Game Advantage State Indentification
-# Comparing of Quantum and Classical Nearest Centroid Algorithms for Game State Advantage Classification
+# Comparison of Quantum and Classical Nearest Centroid Algorithms for Game State Advantage Classification
 
-Presented by QriKET: `Ian Boraks; Amir Ebrahimi; Sehmilul Hoque; Aleks Siemenn; Tavin Turner`
+#### Presented by QriKET: `Ian Boraks; Amir Ebrahimi; Sehmilul Hoque; Aleks Siemenn; Tavin Turner`
+For a more formal write up of the project, ```Aleks Siemenn``` wrote this after the competition: https://asiemenn.medium.com/quantum-vs-classical-game-state-advantage-identification-7cdcd153c1cc
 
 ## Introduction
 
