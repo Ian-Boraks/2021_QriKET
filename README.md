@@ -5,7 +5,7 @@
 #### Presented by QriKET: `Ian Boraks; Amir Ebrahimi; Sehmilul Hoque; Aleks Siemenn; Tavin Turner`
 For a more formal write up of the project, ```Aleks Siemenn``` wrote this after the competition: https://asiemenn.medium.com/quantum-vs-classical-game-state-advantage-identification-7cdcd153c1cc
 
-To see the official github repo you can go here: https://github.com/iQuHACK/2021_QriKET. Sadly, the repo was locked at the end of competition, so any minor changes can not be pushed to that repo.
+To see the official github repo you can go here: https://github.com/iQuHACK/2021_QriKET. Sadly, the repo was locked at the end of competition, so any minor changes made can not be pushed to that repo (so they live here).
 
 ## Introduction
 
