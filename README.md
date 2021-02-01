@@ -5,6 +5,8 @@
 #### Presented by QriKET: `Ian Boraks; Amir Ebrahimi; Sehmilul Hoque; Aleks Siemenn; Tavin Turner`
 For a more formal write up of the project, ```Aleks Siemenn``` wrote this after the competition: https://asiemenn.medium.com/quantum-vs-classical-game-state-advantage-identification-7cdcd153c1cc
 
+To see the official github repo you can go here: https://github.com/iQuHACK/2021_QriKET. Sadly, the repo was locked at the end of competition, so any minor changes can not be pushed to that repo.
+
 ## Introduction
 
 We demonstrate the nearest centroid classification via implementations in 1) a fully classical model and 2) a model taking advantage of quantum distance estimation. Nearest centroid clustering was used to identify game state advantage in generated game boards, with comparable applications beyond the given application, from rapid medical classification to sentiment analysis. The quantum model is compared with the classical model to evaluate the efficacy of the quantum model in comparison to that of the classical model. Additionally, this comparison is gameified, pitting human, classical, and quantum classifications against each other in an interactive game.
